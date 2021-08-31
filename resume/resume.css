@@ -1,0 +1,38 @@
+html, body {
+    height: 97%;
+}
+body {
+    background-color: #5AF;
+}
+div {
+    margin: 5px;
+    padding: 5px;
+}
+.container {
+    display: flex;
+    height: 100%;
+}
+.drawer {
+    flex: 1;
+    border-right: 1px solid black;
+}
+.detail {
+    flex: 4;
+}
+.photo {
+    border-bottom: 1px solid black;
+}
+.photo img{
+    width: 100%;
+}
+.info {
+    border-bottom: 1px solid black;
+}
+.navLinks {
+    border-bottom: 1px solid black;
+}
+.navLinks ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
