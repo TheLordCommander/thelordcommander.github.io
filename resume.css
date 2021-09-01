@@ -19,6 +19,10 @@ div {
 .detail {
     flex: 4;
 }
+.detail iframe {
+    width: 100%;
+    height: 100%;
+}
 .photo {
     border-bottom: 1px solid black;
 }
