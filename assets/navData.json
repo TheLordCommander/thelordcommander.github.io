@@ -6,8 +6,33 @@
     "display" : "Career History"
 },{
     "page" : "techviews",
-    "display" : "Tech views"
+    "display" : "Tech views/POC's",
+    "children" :[
+        {
+            "page" : "/techviews/graphQL/index",
+            "display" : "GraphQL with JS"
+        },{
+            "page" : "/techviews/testing-framework/index",
+            "display" : "Testing framework comparison"
+        },{
+            "page" : "/projects/lwc/form-app",
+            "display" : "LWC"
+        }
+    ]
 },{
     "page" : "projects",
-    "display" : "Some cool projects"
+    "display" : "Some cool projects",
+    "children" :[
+        {
+            "page" : "https://mor-weather-app.herokuapp.com/",
+            "display" : "Hire Right",
+            "external" : true
+        },{
+            "page" : "/projects/planning-poker/index",
+            "display" : "Planning Poker"
+        },{
+            "page" : "/projects/solar-system/index",
+            "display" : "Solar System"
+        }
+    ]
 }]
