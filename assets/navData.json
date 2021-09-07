@@ -1,0 +1,13 @@
+[{
+    "page" : "bio",
+    "display" : "Bio / Education"
+},{
+    "page" : "career",
+    "display" : "Career History"
+},{
+    "page" : "techviews",
+    "display" : "Tech views"
+},{
+    "page" : "projects",
+    "display" : "Some cool projects"
+}]
