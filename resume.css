@@ -2,7 +2,7 @@ html, body {
     height: 97%;
 }
 body {
-    background-color: #5AF;
+    background-color: #1d4f38ad;
 }
 div {
     margin: 5px;
@@ -36,4 +36,7 @@ div {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+.navLinks > ul a {
+    color : black;
 }

@@ -24,7 +24,7 @@
     "display" : "Some cool projects",
     "children" :[
         {
-            "page" : "https://mor-weather-app.herokuapp.com/",
+            "page" : "https://hire-right-client.herokuapp.com/",
             "display" : "Hire Right",
             "external" : true
         },{
