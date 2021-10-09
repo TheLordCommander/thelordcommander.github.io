@@ -14,7 +14,6 @@ div {
 }
 .drawer {
     flex: 1;
-    border-right: 1px solid black;
 }
 .detail {
     flex: 4;
@@ -39,4 +38,14 @@ div {
 }
 .navLinks > ul a {
     color : black;
+}
+.seperator {
+    cursor: e-resize;
+    border-left: 2px solid black;
+}
+.sidebar .info{
+    display: none;
+}
+.sidebar .navLinks{
+    display: none;
 }
